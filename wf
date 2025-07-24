@@ -1,0 +1,4 @@
+#!/bin/bash
+# Workflow management shortcut
+
+python3 manage.py "$@"

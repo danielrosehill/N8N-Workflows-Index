@@ -6,7 +6,7 @@ N8N workflow for converting voice notes into prompts and sending them via email
 
 *Added: 2025-07-24*
 
-[📂 Repository](https://github.com/danielrosehill/Voicenotes-Prompt-To-Email-Workflow-N8N)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Voicenotes-Prompt-To-Email-Workflow-N8N)
 
 ---
 
@@ -16,7 +16,7 @@ AI agent workflow for handling parenting-related questions and providing guidanc
 
 *Added: 2025-07-24*
 
-[📂 Repository](https://github.com/danielrosehill/Parenting-Questions-AI-Agent-Workflow)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Parenting-Questions-AI-Agent-Workflow)
 
 ---
 
@@ -26,7 +26,7 @@ Agent workflow for sanitizing and cleaning N8N workflow configurations
 
 *Added: 2025-07-24*
 
-[📂 Repository](https://github.com/danielrosehill/N8N-Workflow-Sanitiser-Agent)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/N8N-Workflow-Sanitiser-Agent)
 
 ---
 
@@ -36,7 +36,7 @@ N8N configuration for a research agent focused on technology stack analysis
 
 *Added: 2025-07-24*
 
-[📂 Repository](https://github.com/danielrosehill/Stack-Research-Agent-N8N-Config)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Stack-Research-Agent-N8N-Config)
 
 ---
 
@@ -46,7 +46,7 @@ Workflow for processing and emailing AI-generated outputs and responses
 
 *Added: 2025-07-24*
 
-[📂 Repository](https://github.com/danielrosehill/Email-AI-Outputs-Workflow)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Email-AI-Outputs-Workflow)
 
 ---
 
@@ -56,7 +56,7 @@ GPT-based workflow for Oref alert processing and management
 
 *Added: 2025-07-24*
 
-[📂 Repository](https://github.com/danielrosehill/Oref-GPT)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Oref-GPT)
 
 ---
 
@@ -66,14 +66,23 @@ N8N agent for tuning and optimizing system prompts for AI interactions
 
 *Added: 2025-07-24*
 
-[📂 Repository](https://github.com/danielrosehill/System-Prompt-Tuning-Agent-N8N)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/System-Prompt-Tuning-Agent-N8N)
 
 ---
 
 ## N8N
 
-https://n8n.io/workflows/4197-improve-ai-agent-system-prompts-with-gpt-4o-feedback-analysis-and-email-delivery/
+[![N8N Creator Home](https://img.shields.io/badge/N8N-Creator%20Profile-orange?style=for-the-badge&logo=n8n)](https://n8n.io/creators/danielrosehill/)
+
+## Workflows
+
+## Improve AI Agent System Prompts with GPT-4o Feedback Analysis and Email Delivery
+
+N8N workflow for improving AI agent system prompts using GPT-4o feedback analysis with automated email delivery
+
+*Added: 2025-07-24*
+
+[![N8N Workflow](https://img.shields.io/badge/N8N-Workflow-orange?style=for-the-badge&logo=n8n)](https://n8n.io/workflows/4197-improve-ai-agent-system-prompts-with-gpt-4o-feedback-analysis-and-email-delivery/)
 
  
-- [N8N Creator Profile](https://n8n.io/creators/danielrosehill/)
 
