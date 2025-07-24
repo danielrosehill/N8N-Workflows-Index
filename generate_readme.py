@@ -18,14 +18,24 @@ def generate_readme():
     
     # Add each workflow
     for workflow in workflows:
+        title = workflow.get('title', workflow['repo_link'].split('/')[-1])
+        date_added = workflow.get('date_added', 'N/A')
         repo_name = workflow['repo_link'].split('/')[-1]
-        readme_content += f"## {repo_name}\n\n"
+        
+        readme_content += f"## {title}\n\n"
         readme_content += f"{workflow['description']}\n\n"
-        readme_content += f"[![Repository](https://img.shields.io/badge/Repository-{repo_name}-blue?style=for-the-badge&logo=github)]({workflow['repo_link']})\n\n"
+        readme_content += f"*Added: {date_added}*\n\n"
+        
+        # Create a simple repository link instead of badge for now
+        readme_content += f"[📂 Repository]({workflow['repo_link']})\n\n"
         readme_content += "---\n\n"
     
-    # Add footer
-    readme_content += """ 
+    # Add N8N section
+    readme_content += """## N8N
+
+https://n8n.io/workflows/4197-improve-ai-agent-system-prompts-with-gpt-4o-feedback-analysis-and-email-delivery/
+
+ 
 - [N8N Creator Profile](https://n8n.io/creators/danielrosehill/)
 
 """

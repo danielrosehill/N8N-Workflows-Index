@@ -1,30 +1,44 @@
 [
   {
+    "title": "Voicenotes Prompt To Email Workflow",
     "repo_link": "https://github.com/danielrosehill/Voicenotes-Prompt-To-Email-Workflow-N8N",
-    "description": "N8N workflow for converting voice notes into prompts and sending them via email"
+    "description": "N8N workflow for converting voice notes into prompts and sending them via email",
+    "date_added": "2025-07-24"
   },
   {
+    "title": "Parenting Questions AI Agent Workflow",
     "repo_link": "https://github.com/danielrosehill/Parenting-Questions-AI-Agent-Workflow",
-    "description": "AI agent workflow for handling parenting-related questions and providing guidance"
+    "description": "AI agent workflow for handling parenting-related questions and providing guidance",
+    "date_added": "2025-07-24"
   },
   {
+    "title": "N8N Workflow Sanitiser Agent",
     "repo_link": "https://github.com/danielrosehill/N8N-Workflow-Sanitiser-Agent",
-    "description": "Agent workflow for sanitizing and cleaning N8N workflow configurations"
+    "description": "Agent workflow for sanitizing and cleaning N8N workflow configurations",
+    "date_added": "2025-07-24"
   },
   {
+    "title": "Stack Research Agent N8N Config",
     "repo_link": "https://github.com/danielrosehill/Stack-Research-Agent-N8N-Config",
-    "description": "N8N configuration for a research agent focused on technology stack analysis"
+    "description": "N8N configuration for a research agent focused on technology stack analysis",
+    "date_added": "2025-07-24"
   },
   {
+    "title": "Email AI Outputs Workflow",
     "repo_link": "https://github.com/danielrosehill/Email-AI-Outputs-Workflow",
-    "description": "Workflow for processing and emailing AI-generated outputs and responses"
+    "description": "Workflow for processing and emailing AI-generated outputs and responses",
+    "date_added": "2025-07-24"
   },
   {
+    "title": "Oref GPT",
     "repo_link": "https://github.com/danielrosehill/Oref-GPT",
-    "description": "GPT-based workflow for Oref alert processing and management"
+    "description": "GPT-based workflow for Oref alert processing and management",
+    "date_added": "2025-07-24"
   },
   {
+    "title": "System Prompt Tuning Agent N8N",
     "repo_link": "https://github.com/danielrosehill/System-Prompt-Tuning-Agent-N8N",
-    "description": "N8N agent for tuning and optimizing system prompts for AI interactions"
+    "description": "N8N agent for tuning and optimizing system prompts for AI interactions",
+    "date_added": "2025-07-24"
   }
 ]
