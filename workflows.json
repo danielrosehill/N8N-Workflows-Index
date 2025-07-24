@@ -1,0 +1,30 @@
+[
+  {
+    "repo_link": "https://github.com/danielrosehill/Voicenotes-Prompt-To-Email-Workflow-N8N",
+    "description": "N8N workflow for converting voice notes into prompts and sending them via email"
+  },
+  {
+    "repo_link": "https://github.com/danielrosehill/Parenting-Questions-AI-Agent-Workflow",
+    "description": "AI agent workflow for handling parenting-related questions and providing guidance"
+  },
+  {
+    "repo_link": "https://github.com/danielrosehill/N8N-Workflow-Sanitiser-Agent",
+    "description": "Agent workflow for sanitizing and cleaning N8N workflow configurations"
+  },
+  {
+    "repo_link": "https://github.com/danielrosehill/Stack-Research-Agent-N8N-Config",
+    "description": "N8N configuration for a research agent focused on technology stack analysis"
+  },
+  {
+    "repo_link": "https://github.com/danielrosehill/Email-AI-Outputs-Workflow",
+    "description": "Workflow for processing and emailing AI-generated outputs and responses"
+  },
+  {
+    "repo_link": "https://github.com/danielrosehill/Oref-GPT",
+    "description": "GPT-based workflow for Oref alert processing and management"
+  },
+  {
+    "repo_link": "https://github.com/danielrosehill/System-Prompt-Tuning-Agent-N8N",
+    "description": "N8N agent for tuning and optimizing system prompts for AI interactions"
+  }
+]
