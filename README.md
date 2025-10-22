@@ -1,5 +1,7 @@
 # N8N Workflows Index
 
+[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
+
 ## Voicenotes Prompt To Email Workflow
 
 N8N workflow for converting voice notes into prompts and sending them via email
